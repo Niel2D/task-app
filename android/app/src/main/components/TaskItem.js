@@ -106,5 +106,37 @@ const styles = StyleSheet.create({
         marginRight: 12,
         justifyContent: 'center',
         alignItems: 'center',
-    }
-})
+    },
+    checkmark: {
+      fontSize: 18,
+      color: '#4CAF50',
+      fontWeight: 'bold',
+    },
+    textContainer: {
+      flex:1,
+    },
+    title: {
+      fontSize: 16,
+      fontWeight: '600',
+      color: '#333',
+      marginBottom: 4,
+    },
+    description: {
+      fontSize: 14,
+      color: '#666',
+    },
+    completedText: {
+      textDecorationLine: 'line-through',
+      color: '#999',
+    },
+    deleteButton: {
+      justifyContent: 'center',
+      alignItems: 'center',
+      paddingHorizontal: 16,
+    },
+    deleteText: {
+      fontSize: 24,
+    },
+});
+
+export default TaskItem;
