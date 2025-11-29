@@ -1,6 +1,7 @@
 # Task App
 
-App de gerenciamento de tarefas com estímulos visuais ao completar cada tarefa.
+Uma aplicação de gerenciamento de tarefas que utiliza estímulos visuais e de recompensa inspirados em estratégias utilizadas por cassinos — com o objetivo positivo de ajudar usuários a criarem hábitos melhores.
+Este projeto está em desenvolvimento e serve como fonte de estudo sobre códigos, gamificação e condicionamento de comportamento.
 
 ## Tecnologias
 
